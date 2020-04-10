@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =5
+let g:netrw_dirhist_5='/Users/rizalfakhri/bb/hrms-backend/resources/views/auth/erp-new/passwords'
+let g:netrw_dirhist_4='/Users/rizalfakhri/bb/crm/app/Services/Stubs'
+let g:netrw_dirhist_3='/Users/rizalfakhri/bb/crm/database/migrations'
+let g:netrw_dirhist_2='/Users/rizalfakhri/bb/crm/database'
+let g:netrw_dirhist_1='/Users/rizalfakhri/bb/crm'
+let g:netrw_dirhist_0='/Users/rizalfakhri/bb/crm/database/migrations'
+let g:netrw_dirhist_9='/Users/rizalfakhri/bb/crm/app/Models'
+let g:netrw_dirhist_8='/Users/rizalfakhri/bb/crm/app/Transformers'
+let g:netrw_dirhist_7='/Users/rizalfakhri/bb/hrms-backend/database/migrations'
+let g:netrw_dirhist_6='/Users/rizalfakhri/bb/hrms-backend/app/Models'
